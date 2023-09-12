@@ -1,0 +1,29 @@
+ 
+    [
+      {
+        "id": 1,
+        "name": "Apple Watch Series 433",
+        "price": "$399"
+      },
+      {
+        "id": 2,
+        "name": "Galaxy Watch 4",
+        "price": "$259"
+      },
+      {
+        "id": 3,
+        "name": "Fitbit Sense",
+        "price": "$269"
+      },
+      {
+        "id": 4,
+        "name": "mi watch",
+        "price": "$199"
+      },
+      {
+        "id": 5,
+        "name": "Fitbit",
+        "price": "$229"
+      }
+      
+  ]
